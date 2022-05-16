@@ -1,1 +1,1 @@
-# AndroidProjectBeibit
+I used mvm architecture. I have movie list in recyclerview and when we choose movie-we can see movie description, rating and trailer in new fragment. In order to show trailer-app directs to Youtube. To show movie's data I used JSON file
